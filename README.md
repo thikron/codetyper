@@ -28,4 +28,6 @@ function bla() {
 </section>
 ```
 
-When there is just one codetyper-code class present in a section that should be written the data-codetyperlevel can be omitted.
+When there is just one **codetyper-code** class present in a section then the **data-codetyperlevel** can be omitted.
+
+The **data-codetypername** should be unique.
